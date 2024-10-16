@@ -75,3 +75,6 @@ function calcularMedia() {
 }
 
 calcularMedia();
+
+
+let bruxos=[{id:1,nome:"Harry Potter",notas:[8.1,7.4,9.9]},{id:2,nome:"Hermione Grenger",notas:[10.0,9.8,9,5]},{id:3, nome:"Ronald Weasley", notas:[6.4,8.7,4.2]},{id:4, nome:"Neville Longbottom",notas:[7.7,6.8,5.6]}]
